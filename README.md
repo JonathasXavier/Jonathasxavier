@@ -1,5 +1,5 @@
 ### Hi there! Sou Jonathas Xavier
-- 📚 Apresentar Meus Projetos
+- 🎮 Apaixonado por Tecnologia
 - 💻 Estudando JAVA
 
 <div align="esquerda">
