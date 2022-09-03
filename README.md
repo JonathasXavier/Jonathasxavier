@@ -1,6 +1,6 @@
 ### Hi there! Sou Jonathas Xavier
--  💻 Apresentar Meus Projeto
-- 🌱 Estudando JAVA
+- 📚 Apresentar Meus Projetos
+- 💻 Estudando JAVA
 
 <div align="center">
   <a href="https://github.com/JonathasXavier">
