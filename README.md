@@ -16,6 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
   <img align="center" alt="Jonathas-JAVASCRIPT" height="60" width="60"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Jonathas-REACT" height="60" width="60"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
           
           
  </div>
