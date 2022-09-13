@@ -13,14 +13,17 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathas-JAVA" height="60" width="60"
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
  </div>
       
 ##
 
 <div 
 
-<a href="https://www.linkedin.com/in/jonathas-xavier-b2534a21a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jonathas-xavier-b2534a21a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
 ![Snake animation](https://github.com/jonathasxavier/jonathasxavier/blob/output/github-contribution-grid-snake.svg)
  
