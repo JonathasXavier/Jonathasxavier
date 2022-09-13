@@ -22,6 +22,6 @@
 
 <a href="https://www.linkedin.com/in/jonathas-xavier-b2534a21a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/jonathasxavier/jonathasxavier/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JonathasXavier/JonathasXavier/blob/output/github-contribution-grid-snake.svg)
 
 </div>
